@@ -8,7 +8,7 @@
 
 **Phone:** 9940275422 <br>
 **Email:** [elankovanmg@gmail.com](mailto:elankovanmg@gmail.com) <br>
-**Website:** ilailabs.github.io/faculty-profile-elankovan <br>
+**Website:** [https://ilailabs.github.io/faculty-profile-elankovan](https://ilailabs.github.io/faculty-profile-elankovan) <br>
 
 **Download Resume:** [click here](https://raw.githubusercontent.com/ilailabs/elan-iisc/main/Inhouse_Trainer_Elankovan_Gopal_IITMadras_240822.pdf
 )
