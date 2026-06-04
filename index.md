@@ -6,9 +6,9 @@
 
 **(Male, 31 y.o.)**
 
-**Phone:** 9940275422
-**Email:** [elankovanmg@gmail.com](mailto:elankovanmg@gmail.com)
-**Website:** ilailabs.github.io/faculty-profile-elankovan
+**Phone:** 9940275422 \\
+**Email:** [elankovanmg@gmail.com](mailto:elankovanmg@gmail.com) \\
+**Website:** ilailabs.github.io/faculty-profile-elankovan \\
 
 **Download Resume:** [click here](https://raw.githubusercontent.com/ilailabs/elan-iisc/main/Inhouse_Trainer_Elankovan_Gopal_IITMadras_240822.pdf
 )
