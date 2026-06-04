@@ -1,7 +1,7 @@
 # ELANGOVAN GOPAL
-**(IIT Madras)**
+(IIT Madras)
 
-**Updated: 05 Jun 2026**
+Updated: 05 Jun 2026
 
 ## JEE / NEET Faculty Mentor
 
